@@ -1,0 +1,16 @@
+{
+  "validUser": {
+    "username": "qa-tester",
+    "password": "123456789@++"
+  },
+  "invalidUser": {
+    "username": "qa-tester2",
+    "password": "invalid123"
+  },
+    "newUser": {
+    "username": "qa-newuser6",
+    "email": "qa-newuser6@example.com",
+    "password": "Password123!",
+    "confirmPassword": "Password123!"
+  }
+}
