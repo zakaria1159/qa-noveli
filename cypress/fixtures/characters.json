@@ -1,0 +1,14 @@
+{
+  "characterA": {
+    "name": "Ariadne",
+    "age": "28",
+    "gender": "Female",
+    "occupation": "Detective",
+    "roles": ["Protagonist"],
+    "traits": "Curious, Smart",
+    "mbti": "INTJ: The Architect",
+    "backstory": "Grew up in a small town, always dreamed of solving mysteries.",
+    "goals": "Solve the big case",
+    "appearance": "Tall, dark hair, wears glasses"
+  }
+}
